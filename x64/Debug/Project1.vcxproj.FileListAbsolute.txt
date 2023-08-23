@@ -1,0 +1,4 @@
+E:\Munkák\Programming\C\2023\Project1\x64\Debug\Project1.exe
+E:\Munkák\Programming\C\Project1\x64\Debug\Project1.exe
+E:\Munkák\Programming\C\ChatGPT_Hun_Flag\x64\Debug\Project1.exe
+E:\Munkák\Programming\C\ChatGPT_HunFlag\x64\Debug\Project1.exe
